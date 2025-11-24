@@ -1,0 +1,5 @@
+A TELECHARGER:
+BaseSystem.chunklist = https://mega.nz/file/lZEg1Y6I#Kl_POXp0nUSjxUKq9MBVOC2voO3SlcQjIZIcpr3ZLQU
+BaseSystem.dmg = https://mega.nz/file/9IlWgZCJ#AZDxedcGRx14UQadBHMDVR5Yb0R7CAyBOCNm90p6RGs
+
+A PLACER DANS "com.apple.recovery.boot".
